@@ -24,7 +24,7 @@
 
 
 
-#### Thank You
+
 
 <!---
 - https://github.com/AustralianCyberSecurityCentre/windows_event_logging
